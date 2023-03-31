@@ -1,0 +1,11 @@
+{
+    "name": "Weather in your area",
+    "version": "1.0.0",
+    "description": "weather in your area",
+    "manifest_version": 3,
+    "author": "Wengran Xiao",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Weather in Your Area"
+    }
+}
