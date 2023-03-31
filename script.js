@@ -5,6 +5,6 @@
     document.getElementById("date").innerHTML = json.current.last_updated
     document.getElementById("location").innerHTML = json.location.name
     document.getElementById("temperature").innerHTML = json.current.temp_f
-    document.getElementById("weahter").innerHTML = json.current.condition.text
+    document.getElementById("weather").innerHTML = json.current.condition.text
   }
   weatherData()
